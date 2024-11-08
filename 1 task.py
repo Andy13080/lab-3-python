@@ -32,4 +32,4 @@ while True:
     window.update()
     time.sleep(0.01)
 
-window.mainloop
+window.mainloop()
