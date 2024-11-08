@@ -52,4 +52,4 @@ generate_button = tk.Button(window, text="Generate Key", font=("Helvetica", 12),
 generate_button.pack(pady=20)
 
 
-window.mainloop()
+window.mainloop
